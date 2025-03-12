@@ -1,0 +1,7 @@
+.box {
+  color: white;
+  border: 1px darkblue;
+  background-color: darkblue;
+  display: inline-block;
+  padding: 5px 50px 300px 100px;
+}

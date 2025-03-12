@@ -1,0 +1,44 @@
+p {
+  margin: 0;
+}
+
+h1 {
+  margin: 0;
+}
+
+.kuangjia {
+  border: 4px solid #ff6600;
+  width: 800px;
+  margin: 0 auto;
+  margin-top: 30px;
+  padding: 50px 30px;
+}
+
+.biaoti {
+  color: #ff6600;
+  margin-bottom: 15px;
+}
+
+.zhongbiaoti {
+  background-color: #ff6600;
+  color: white;
+  margin: 25px 0;
+  padding: 6px 15px;
+}
+
+div .xulie table {
+  border: 1px solid #d1d1d1;
+  width: 100%;
+  border-collapse: collapse;
+}
+
+div .xulie table th {
+  background-color: #ededed;
+}
+
+div .xulie th,
+div .xulie td {
+  text-align: center;
+  padding: 6px;
+  border: 1px solid #d1d1d1;
+}
